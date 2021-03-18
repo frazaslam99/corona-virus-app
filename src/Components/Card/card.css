@@ -1,0 +1,20 @@
+.container{
+    margin: 50px 0;
+}
+/* .card{
+    margin: 0 2% !important;
+} */
+.infectedgrid{
+    border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+    /* margin: 0 2% !important; */
+}
+.recoveredgrid{
+    border-bottom: 10px solid rgba(0, 255, 0, 0.5);
+    /* margin: 0 2% !important; */
+
+}
+.deathgrid{
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+    /* margin: 0 2% !important; */
+
+}
